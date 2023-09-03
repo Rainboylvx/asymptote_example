@@ -17,6 +17,6 @@ then get `hello.svg`
 
 ![hello.svg](./hello.svg)
 
-change `settings.outformat = "svg";`,get below pdf
-![hello.pdf](./hello.pdf)
+change `settings.outformat = "svg";`,get below png file
+![hello.png](./hello.png)
 
